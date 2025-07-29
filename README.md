@@ -12,17 +12,13 @@ URLer is an intelligent assistant that lets you **analyze and ask questions abou
 Try URLer instantly on Hugging Face Spaces:  
 🔗 [https://Enoch1359-URLer.hf.space](https://Enoch1359-URLer.hf.space)
 
-ℹ️ URLer uses:
-- 🧠 Embedding model: `all-MiniLM-L6-v2`  
-- 💬 LLM: [Google Gemma](https://huggingface.co/google/gemma-2b)
 
----
 
 ## 📦 Features
 
 - 🌍 Analyze content from any URL
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 🧠 Uses lightweight embeddings (`all-MiniLM-L6-v2`)
+- 🧠 Uses lightweight embeddings (`all-MiniLM-L6-v2`) and serializes it.
 - 🤖 Powered by Google’s Gemma model for responses
 
 ---
